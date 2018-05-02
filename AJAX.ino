@@ -13,8 +13,8 @@ ESP8266WebServer server(80);
 int contconexion = 0;
 
 int LED = 16;
-const char *ssid = "ARRIS-2692";
-const char *password = "32352DC099DB705D";
+const char *ssid = "********";
+const char *password = "***********";
 
 String XML, xmlTemperatura; 
 
